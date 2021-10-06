@@ -1,4 +1,6 @@
-### Hi there 👋
+### Park-YoungUn
+
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=mduddns)](https://solved.ac/mduddns)
 
 <!--
 **youngpark17/youngpark17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
